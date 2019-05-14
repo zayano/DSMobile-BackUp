@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "537049330659",
+    "firebase_url": "https://digital-signage-a3034.firebaseio.com",
+    "project_id": "digital-signage-a3034",
+    "storage_bucket": "digital-signage-a3034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537049330659:android:593f0a8caebf1e7b",
+        "android_client_info": {
+          "package_name": "id.sentuh.digitalsignage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537049330659-dqppim51aclq47pftgfapl8rks12momh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sentuh.digitalsignage",
+            "certificate_hash": "9c98cd71fc3304b18df78239be6c663fd0e95f78"
+          }
+        },
+        {
+          "client_id": "537049330659-hj4kgmf55ihhj0m2crkuci7lp2s41vli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1yHt9RLG0iBcweVjUsADIF_HNiDreV08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537049330659-hj4kgmf55ihhj0m2crkuci7lp2s41vli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutText"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context="id.sentuh.digitalsignage.fragment.TextFragment">
+
+    <TextView
+        android:id="@+id/txtContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawingCacheQuality="auto"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:focusable="true"
+        android:gravity="center|start"
+        android:focusableInTouchMode="true"
+        android:scrollHorizontally="true"
+        android:textColor="@color/textColor"
+        android:textSize="32sp" />
+
+</LinearLayout>

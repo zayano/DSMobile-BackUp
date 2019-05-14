@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ghost1372:Mzip-Android:0.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Mzip-Android-0.4.0.aar/c5c4d0f140321f422bba45850f4c9c5b/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Mzip-Android-0.4.0.aar/c5c4d0f140321f422bba45850f4c9c5b/jars/libs/zip4j_1.3.2.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Mzip-Android-0.4.0.aar/c5c4d0f140321f422bba45850f4c9c5b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

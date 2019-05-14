@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <Spinner
+        android:id="@+id/sp_wifi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:nextFocusDown="@id/wifi_passwd" />
+
+    <EditText
+        android:id="@+id/wifi_passwd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/password_hint"
+        android:inputType="textPassword"
+        android:nextFocusDown="@id/save_setting" />
+
+    <Button
+        android:id="@+id/save_setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/try_connecting" />
+</LinearLayout>

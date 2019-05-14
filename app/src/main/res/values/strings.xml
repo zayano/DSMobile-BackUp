@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sentuh DS</string>
+    <string name="download_label">Mengunduh Konten</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="sentuh_digital">SENTUH DIGITAL TEKNOLOGI - YOUR BEST PARTNER IN TECHNOLOGY SOLUTION</string>
+    <string name="error_player">Terjadi kesalahan pemutar video %s</string>
+    <string name="save_setting">Simpan</string>
+    <string name="password_hint">Kata Sandi</string>
+    <string name="try_connecting">Sambungkan</string>
+    <string name="service_not_available">Service Not Available!</string>
+    <string name="invalid_lat_long_used">Invalid Used Latitude and Longitude!</string>
+    <string name="no_address_found">No Address Found!</string>
+    <string name="address_found">Address Found!</string>
+    <string name="application_name">Digitan Signage</string>
+
+    <string name="content_url"><![CDATA[http://rmcdn.2mdn.net/MotifFiles/html/1248596/android_1330378998288.mp4]]></string>
+
+    <string name="ad_tag_url"><![CDATA[https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dlinear&correlator=]]></string>
+
+</resources>

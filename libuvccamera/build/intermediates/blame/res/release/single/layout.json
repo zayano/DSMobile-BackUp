@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\release\\layout\\seekbar_preference.xml",
+        "source": "C:\\Users\\sony\\.android\\build-cache\\8f67bd6b73ec881dde9d5a072c4480b1e5076298\\output\\res\\layout\\seekbar_preference.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\release\\layout\\list_item_bluetooth_device_info.xml",
+        "source": "C:\\Users\\sony\\.android\\build-cache\\8f67bd6b73ec881dde9d5a072c4480b1e5076298\\output\\res\\layout\\list_item_bluetooth_device_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\release\\layout\\color_picker.xml",
+        "source": "C:\\Users\\sony\\.android\\build-cache\\8f67bd6b73ec881dde9d5a072c4480b1e5076298\\output\\res\\layout\\color_picker.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\release\\layout\\item_picker.xml",
+        "source": "C:\\Users\\sony\\.android\\build-cache\\8f67bd6b73ec881dde9d5a072c4480b1e5076298\\output\\res\\layout\\item_picker.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\release\\layout\\view_frame_selector.xml",
+        "source": "C:\\Users\\sony\\.android\\build-cache\\8f67bd6b73ec881dde9d5a072c4480b1e5076298\\output\\res\\layout\\view_frame_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\release\\layout\\color_picker_dialog.xml",
+        "source": "C:\\Users\\sony\\.android\\build-cache\\8f67bd6b73ec881dde9d5a072c4480b1e5076298\\output\\res\\layout\\color_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\release\\layout\\listitem_device.xml",
+        "source": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\release\\layout\\dialog_camera.xml",
+        "source": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\src\\main\\res\\layout\\dialog_camera.xml"
+    }
+]

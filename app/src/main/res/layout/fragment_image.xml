@@ -1,0 +1,35 @@
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutImage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <!--<com.gigamole.library.ShadowLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/shadow"-->
+        <!--android:focusable="true"-->
+        <!--android:focusableInTouchMode="true"-->
+        <!--app:sl_shadow_radius="10dp"-->
+        <!--app:sl_shadow_distance="0dp"-->
+        <!--app:sl_shadowed="true"-->
+        <!--app:sl_shadowColor="#000000">-->
+
+    <com.makeramen.roundedimageview.RoundedImageView
+        android:id="@+id/imageView"
+        app:riv_corner_radius="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_launcher_background" />
+    <!--</com.dd.ShadowLayout>-->
+    <!--</com.gigamole.library.ShadowLayout>-->
+</LinearLayout>

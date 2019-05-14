@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.devlight.shadowlayout:library:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/69e314bd23c52e97c09e2dec613a548b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/69e314bd23c52e97c09e2dec613a548b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.devlight.shadowlayout/library/1.0.2/7a6ff6952aba33bde6072b84f73053dbf76dff94/library-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

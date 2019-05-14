@@ -1,0 +1,33 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutVideo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="id.sentuh.digitalsignage.fragment.VideoFragment">
+
+    <!--<com.dd.ShadowLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/shadow_video"-->
+        <!--app:sl_shadowRadius="10dp"-->
+        <!--app:sl_shadowColor="#ce000000">-->
+
+
+            <com.google.android.exoplayer2.ui.SimpleExoPlayerView
+                android:id="@+id/video_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                app:resize_mode="fill"
+                app:surface_type="surface_view" />
+
+<!--</android.support.design.card.MaterialCardView>-->
+    <!--</com.dd.ShadowLayout>-->
+</LinearLayout>

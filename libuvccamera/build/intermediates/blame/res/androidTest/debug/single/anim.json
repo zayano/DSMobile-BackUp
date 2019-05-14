@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_left.xml",
+        "source": "C:\\Users\\sony\\.android\\build-cache\\48e8d8888bc3ba677a09ec9f337c236d0e99f762\\output\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_left.xml",
+        "source": "C:\\Users\\sony\\.android\\build-cache\\48e8d8888bc3ba677a09ec9f337c236d0e99f762\\output\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_right.xml",
+        "source": "C:\\Users\\sony\\.android\\build-cache\\48e8d8888bc3ba677a09ec9f337c236d0e99f762\\output\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_right.xml",
+        "source": "C:\\Users\\sony\\.android\\build-cache\\48e8d8888bc3ba677a09ec9f337c236d0e99f762\\output\\res\\anim\\slide_in_right.xml"
+    }
+]
